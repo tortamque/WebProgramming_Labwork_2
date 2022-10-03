@@ -1,0 +1,106 @@
+header{
+    display: flex;
+    background-color: #c6d9f1;
+
+    align-items: center;
+    justify-content: right;
+    height: 20%;
+}
+
+.parent{
+    display: flex;
+}
+
+.mainpage_box{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 200px;
+    min-width: 20%;
+
+    background-color: #ffffff;
+
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+.bottom_box{
+    margin-top: 1%;
+    margin-left: 5%;
+    margin-right: 10%;
+    min-width: 30%;
+    min-height: 15%;
+
+    background-color: #ffffff;
+
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+.second{
+    width: 33%;
+    background-color: #eaf1dd;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: right;
+}
+
+.third{
+    width: 50%;
+    background-color: #ffffff;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+}
+
+.fourth{
+    background-color: #eaf1dd;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: left;
+}
+
+.fifth{
+    background-color: #fde9d9;
+    
+    display: flex;
+
+    align-items: center;
+    justify-content: left;
+}
+
+.sixth{
+    background-color: #c6d9f1;
+
+    display: flex;
+    flex-direction: row;
+
+    align-items: center;
+    justify-content: right;
+}
+
+.right_box{
+    width: 67%;
+}
+
+.right_center_box{
+    display: flex;
+}
+
+
+.right_top_box{
+    width: 50%;
+}
+
+li{
+    margin-bottom: 2vh;
+}
+
